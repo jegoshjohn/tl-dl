@@ -1,11 +1,9 @@
 ## TL;DL
 ### Get instant summaries and chat with your favorite podcasts
 
-Here's a comprehensive README for the project:
+<img width="526" alt="Screenshot 2025-02-01 at 12 34 55 AM" src="https://github.com/user-attachments/assets/20f932de-c1bc-4cd1-8cdc-4b958fc91834" />
 
-# YouTube Podcast Summarizer
-
-A web application that summarizes YouTube podcasts using AI, built with Next.js and FastAPI.
+<img width="512" alt="Screenshot 2025-02-01 at 12 35 18 AM" src="https://github.com/user-attachments/assets/7eaad87e-d5ba-42a1-8632-873a1eae8e24" />
 
 ## Project Structure
 
