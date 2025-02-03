@@ -1,4 +1,4 @@
-## TL;DL
+## TL;DL (Too Long, Didn't Listen)
 ### Get instant summaries and chat with your favorite podcasts
 
 <img width="526" alt="Screenshot 2025-02-01 at 12 34 55 AM" src="https://github.com/user-attachments/assets/20f932de-c1bc-4cd1-8cdc-4b958fc91834" />
