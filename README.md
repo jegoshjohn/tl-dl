@@ -6,9 +6,8 @@
 - Anyone who's ever fallen asleep 15 minutes into a 3-hour episode
 - Those who want to sound smart at dinner parties without the commitment
 
-<img width="526" alt="Screenshot 2025-02-01 at 12 34 55 AM" src="https://github.com/user-attachments/assets/20f932de-c1bc-4cd1-8cdc-4b958fc91834" />
+<img width="927" height="372" alt="Screenshot 2025-07-12 at 1 01 56 PM" src="https://github.com/user-attachments/assets/9d04dc17-6ac9-4035-952b-9acc6e120aa5" />
 
-<img width="512" alt="Screenshot 2025-02-01 at 12 35 18 AM" src="https://github.com/user-attachments/assets/7eaad87e-d5ba-42a1-8632-873a1eae8e24" />
 
 ## Project Structure
 
