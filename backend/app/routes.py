@@ -5,11 +5,9 @@ from pydantic import BaseModel
 from typing import Union
 
 # LangChain & related imports
-from langchain_community.document_loaders import YoutubeLoader
-from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.embeddings import OpenAIEmbeddings
-from langchain.vectorstores import Chroma
-from langchain.llms import OpenAI
+from langchain_text_splitters import RecursiveCharacterTextSplitter
+from langchain_openai import OpenAIEmbeddings, ChatOpenAI
+from langchain_community.vectorstores import FAISS
 from langchain.chains import RetrievalQA
 from langchain_community.document_loaders.blob_loaders.youtube_audio import (
     YoutubeAudioLoader,
@@ -19,10 +17,6 @@ from langchain_community.document_loaders.parsers.audio import (
     OpenAIWhisperParser,
     OpenAIWhisperParserLocal,
 )
-from langchain.chains import RetrievalQA
-from langchain_community.vectorstores import FAISS
-from langchain_openai import ChatOpenAI, OpenAIEmbeddings
-from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 local = False
 

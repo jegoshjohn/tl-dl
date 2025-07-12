@@ -10,8 +10,6 @@ import os
 
 app = FastAPI(title="YouTube Podcast Summarizer API")
 
-
-
 # Configure allowed origins, methods, headers, etc.
 app.add_middleware(
     CORSMiddleware,
